@@ -1,0 +1,63 @@
+/*Hoja de estilos*/
+/*Configurar letra lemonada*/
+.lemonada {
+    font-family: "Lemonada", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Configurar letra Changa*/
+.changa {
+    font-family: "Changa", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    background-color: rgb(255, 251, 251);
+    padding: 10px;
+}
+/*Estilo del header*/
+header {
+    font-family: "lemonada", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/*1er Estilo de letra*/
+#Letra-1 {
+    font-family: "Changa", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(187, 250, 229);
+}
+
+/*Estilo del primer párrafo*/
+#Letra-2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: normal;
+    font-style: normal;
+    background-color: rgb(250, 250, 96);
+}
+
+/*Estilo del segundo párrafo*/
+#Letra-3 {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(251, 211, 91);
+}
+
+/*Estilo del tercer párrafo*/
+#Letra-4 {
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: oblique;
+    background-color: beige;
+}
